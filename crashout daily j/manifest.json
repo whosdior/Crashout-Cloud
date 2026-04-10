@@ -1,0 +1,36 @@
+{
+  "name": "Crashout Trading Journals",
+  "short_name": "Crashout",
+  "description": "Advanced Trading Journal Platform with Discord-like UI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#36393f",
+  "theme_color": "#5865F2",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDI0IDEwMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbD0iIzU4NjVGMiIgZD0iNTEyIDUxMiIgcj0iNTEyIDUxMiI+PHBhdGggZmlsbD0iIzQ4YzljNyIgZD0iNTEyIDUxMiIgcj0iNTEyIDUxMiI+PHN2ZyBmaWxsPSIjZmZmZiIgZD0iMzA0IDMwNCIgcj0iMzA0IDMwNCI+PHN2ZyBmaWxsPSIjNjY3ZWEiIGQ9IjMwNCAzMDAiIHI9IjMwMCAzMDAiLz48cGF0aCBmaWxsPSIjMjg5ZGEiIGQ9IjIwNCAyMDAiIHI9IjIwMCAyMDAiLz48L3N2Zz48L3N2Zz48L3N2Zz4=",
+      "sizes": "1024x1024",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciI+PHBhdGggZmlsbD0iIzU4NjVGMiIgZD0iMjU2IDI1NiIgcj0iMjU2IDI1NiI+PHBhdGggZmlsbD0iIzQ4YzljNyIgZD0iMjU2IDI1NiIgcj0iMjU2IDI1NiI+PHN2ZyBmaWxsPSIjZmZmZiIgZD0iMTUyIDE1MiIgcj0iMTUyIDE1MiI+PHN2ZyBmaWxsPSIjNjY3ZWEiIGQ9Ijc2IDc2IHI9Ijc2IDc2Lz48L3N2Zz48L3N2Zz48L3N2Zz4=",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciI+PHBhdGggZmlsbD0iIzU4NjVGMiIgZD0iMTI4IDEyOCIgcj0iMTI4IDEyOCI+PHBhdGggZmlsbD0iIzQ4YzljNyIgZD0iMTI4IDEyOCIgcj0iMTI4IDEyOCI+PHN2ZyBmaWxsPSIjZmZmZiIgZD0iNzYgNzYigcj0iNzYgNzYiLz48L3N2Zz48L3N2Zz48L3N2Zz4=",
+      "sizes": "256x256",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciI+PHBhdGggZmlsbD0iIzU4NjVGMiIgZD0iNjQgNjQiIHI9IjY0IDY0Ij48cGF0aCBmaWxsPSIjNDhjOWM3IiBkPSI2NCA2NCIgcj0iNjQgNjQiLz48c3ZnIGZpbGw9IiNmZmZmIiBkPSIzNiAzNiIgcj0iMzYgMzYiLz48c3ZnIGZpbGw9IjY2N2VhIiBkPSI0OCA0OCIgcj0iNDggNDgiLz48L3N2Zz48L3N2Zz48L3N2Zz4=",
+      "sizes": "128x128",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["productivity", "finance", "business"],
+  "lang": "en",
+  "prefer_related_applications": false
+}
